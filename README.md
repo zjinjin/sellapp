@@ -1,4 +1,4 @@
-# sellapp2
+# sellapp
 
 > A Vue.js project
 
